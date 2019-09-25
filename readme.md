@@ -1,6 +1,6 @@
 # C++ Boilerplate
 [![Build Status](https://travis-ci.org/MarianaCapuchinho/cpp-boilerplate.svg?branch=master)](https://travis-ci.org/MarianaCapuchinho/cpp-boilerplate)
-[![Coverage Status](https://coveralls.io/repos/github/dpiet/cpp-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/dpiet/cpp-boilerplate?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/MarianaCapuchinho/cpp-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/MarianaCapuchinho/cpp-boilerplate?branch=master)
 ---
 
 ## Overview
